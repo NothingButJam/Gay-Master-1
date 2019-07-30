@@ -6,37 +6,37 @@
               "Камень": {"price": 0,
                         "wearable": false,
                         "effect": "None",
-                        "description": "Обычный камень. По всей видимости, булыжник."}
+                        "description": "Обычный камень. По всей видимости, булыжник."},
               "Карточный бустер Hearthstone": {"price": 0,
-                        "wearable": false,
-                        "effect": "None",
-                        "description": "Бустер из пяти карт. На краю коробки выцарапано "Gooz"."}
-               "Карточный бустер MTG": {"price": 0,
-                        "wearable": false,
-                        "effect": "None",
-                        "description": "Бустер из семи карт. Раритет."}
+                                               "wearable": false,
+                                               "effect": "None",
+                                               "description": "Бустер из пяти карт. На краю коробки выцарапано 'Gooz'."},
+              "Карточный бустер MTG": {"price": 0,
+                                       "wearable": false,
+                                       "effect": "None",
+                                       "description": "Бустер из семи карт. Раритет."}
   },
   "common": {"Стрела": {"price": 10,
                         "wearable": false,
                         "effect": "None",
-                        "description": "Стрела с железным наконечником. Подходит для любых видов лука."}
+                        "description": "Стрела с железным наконечником. Подходит для любых видов лука."},
              "Арбалетный болт": {"price": 10,
-                        "wearable": false,
-                        "effect": "None",
-                        "description": "Обычный арбалетный болт. Подойдёт для любого арбалета."}
+                                 "wearable": false,
+                                 "effect": "None",
+                                 "description": "Обычный арбалетный болт. Подойдёт для любого арбалета."}
   },
   "rare": {"Меч": {"price": 100,
                    "wearable": false,
                    "effect": "(De)buff",
                    "description": "Стальной двуручный меч с резной рукоятью.",
                    "mods": {"strength": 1,
-                            "luck": -1}}
+                            "luck": -1}},
            "Арбалет": {"price": 100,
-                   "wearable": false,
-                   "effect": "(De)buff",
-                   "description": "Обычный двуручный арбалет. Удобнее и мощнее чем лук, но более громоздкий",
-                   "mods": {"agility": 2,
-                            "strength": -2}}
+                       "wearable": false,
+                       "effect": "(De)buff",
+                       "description": "Обычный двуручный арбалет. Удобнее и мощнее чем лук, но более громоздкий",
+                       "mods": {"agility": 2,
+                                "strength": -2}}
   },
   "epic": {"Шлем": {"price": 1000,
                     "wearable": true,
@@ -50,12 +50,12 @@
                            "effect": "(De)buff",
                            "description": "Древний магический амулет.",
                            "mods": {"magic": 6,
-                                    "agility": -3}}
+                                    "agility": -3}},
                 "Эльфийский самотык": {"price": 5000,
-                           "wearable": true,
-                           "effect": "(De)buff",
-                           "description": "Магической устройство эльфов, наделенное силой элементалей.",
-                           "mods": {"luck": 5,
-                                    "endurance": -2}}
+                                       "wearable": true,
+                                       "effect": "(De)buff",
+                                       "description": "Магической устройство эльфов, наделенное силой элементалей.",
+                                       "mods": {"luck": 5,
+                                                "endurance": -2}}
   }
 }

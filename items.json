@@ -1,0 +1,33 @@
+{
+  "garbage": {"Палка": {"price": 0,
+                        "wearable": false,
+                        "effect": "None",
+                        "description": "Просто палка. Ничего особенного."}
+  },
+  "common": {"Стрела": {"price": 10,
+                        "wearable": false,
+                        "effect": "None",
+                        "description": "Стрела с железным наконечником. Подходит для любых видов лука."}
+  },
+  "rare": {"Меч": {"price": 100,
+                   "wearable": false,
+                   "effect": "(De)buff",
+                   "description": "Стальной двуручный меч с резной рукоятью.",
+                   "mods": {"strength": 1,
+                            "luck": -1}}
+  },
+  "epic": {"Шлем": {"price": 1000,
+                    "wearable": true,
+                    "effect": "(De)buff",
+                    "description": "Железный шлем рыцаря. Немного ржавый, но все еще достаточно крепкий.",
+                    "mods": {"endurance": 3,
+                             "charisma": -2}}
+  },
+  "legendary": {"Амулет": {"price": 5000,
+                           "wearable": true,
+                           "effect": "(De)buff",
+                           "description": "Древний магический амулет.",
+                           "mods": {"magic": 6,
+                                    "agility": -3}}
+  }
+}

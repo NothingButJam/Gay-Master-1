@@ -2,7 +2,11 @@
   "garbage": {"Палка": {"price": 0,
                         "wearable": false,
                         "effect": "None",
-                        "description": "Просто палка. Ничего особенного."}
+                        "description": "Просто палка. Ничего особенного."},
+              "Камень": {"price": 0,
+                        "wearable": false,
+                        "effect": "None",
+                        "description": "Обычный камень. По всей видимости, булыжник."}
   },
   "common": {"Стрела": {"price": 10,
                         "wearable": false,

@@ -66,7 +66,7 @@
                 "Кольцо короля зайцев": {"price": 5000,
                                          "wearable": true,
                                          "effect": "(De)buff",
-                                         "description": "Кольцо, оббитое пухом.",
+                                         "description": "Кольцо, обитое пухом.",
                                          "mods": {"strength": 1,
                                                   "perception": 1,
                                                   "endurance": -1,

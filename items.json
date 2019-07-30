@@ -7,11 +7,11 @@
                         "wearable": false,
                         "effect": "None",
                         "description": "Обычный камень. По всей видимости, булыжник."},
-              "Карточный бустер Hearthstone": {"price": 0,
+              "Карточный бустер Hearthstone": {"price": 2,
                                                "wearable": false,
                                                "effect": "None",
                                                "description": "Бустер из пяти карт. На краю коробки выцарапано 'Gooz'."},
-              "Карточный бустер MTG": {"price": 0,
+              "Карточный бустер MTG": {"price": 5,
                                        "wearable": false,
                                        "effect": "None",
                                        "description": "Бустер из семи карт. Раритет."}
@@ -23,7 +23,12 @@
              "Арбалетный болт": {"price": 50,
                                  "wearable": false,
                                  "effect": "None",
-                                 "description": "Обычный арбалетный болт. Подойдёт для любого арбалета."}
+                                 "description": "Обычный арбалетный болт. Подойдёт для любого арбалета."},
+             "Отмычка": {"price": 10,
+                         "wearable": false,
+                         "effect": "None",
+                         "description": "Незаменимый инструмент любого путешественника.. или вора."}
+             
   },
   "rare": {"Меч": {"price": 100,
                    "wearable": false,
@@ -36,7 +41,14 @@
                        "effect": "(De)buff",
                        "description": "Обычный двуручный арбалет. Удобнее и мощнее чем лук, но более громоздкий",
                        "mods": {"agility": 20,
-                                "strength": -20}}
+                                "strength": -20}},
+           "Удочка": {"price": 125,
+                      "wearable": false,
+                      "effect": "None",
+                      "description": "Обычно её используют для ловли рыбы, но некоторые умельцы приспособили и в качестве оружия.",
+                      "mods": {"strength": 10,
+                               "agility": 10,
+                               "intelligence": -20}}
   },
   "epic": {"Шлем": {"price": 1000,
                     "wearable": true,

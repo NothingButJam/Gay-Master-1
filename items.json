@@ -43,7 +43,13 @@
                     "effect": "(De)buff",
                     "description": "Железный шлем рыцаря. Немного ржавый, но все еще достаточно крепкий.",
                     "mods": {"endurance": 3,
-                             "charisma": -2}}
+                             "charisma": -2}},
+           "Неметаллическая броня": {"price": 1000,
+                                     "wearable": true,
+                                     "effect": "(De)buff",
+                                     "description": "Броня. Материал неизвестен, но главное что ни капли металла.",
+                                     "mods": {"endurance": 3,
+                                     "intelligence": -2}}
   },
   "legendary": {"Амулет": {"price": 5000,
                            "wearable": true,
@@ -56,6 +62,18 @@
                                        "effect": "(De)buff",
                                        "description": "Магической устройство эльфов, наделенное силой элементалей.",
                                        "mods": {"luck": 5,
-                                                "endurance": -2}}
+                                                "endurance": -2}},
+                "Кольцо короля зайцев": {"price": 5000,
+                                         "wearable": true,
+                                         "effect": "(De)buff",
+                                         "description": "Кольцо, оббитое пухом.",
+                                         "mods": {"strength": 1,
+                                                  "perception": 1,
+                                                  "endurance": -1,
+                                                  "charisma": -1,
+                                                  "intelligence": -1,
+                                                  "agility": 1,
+                                                  "luck": 1,
+                                                  "magic": -1}}
   }
 }
